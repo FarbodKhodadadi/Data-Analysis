@@ -12,14 +12,5 @@ The project is divided into three main sections:
 2. **Bayesian Estimation **
 3. **Covariance and Correlation Coefficient**
 
----
-
-## Files and Data
-- **`EPS_CA2.pdf`**: The main project file containing detailed instructions and questions.
-- **`energy.csv`**: Dataset containing electricity consumption data for various U.S. states between 2004 and 2018.
-- **Notebook or Markdown file**: Contains theoretical explanations, code, and analysis results.
-- **Plots and Graphs**: Visual representations of the data analysis, including KDE plots, joint plots, and boxplots.
-
-
 This project provides a comprehensive understanding of key statistical concepts and their applications in real-world data analysis.
 ---
